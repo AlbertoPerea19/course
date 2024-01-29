@@ -12,7 +12,7 @@
 // ----- YOUR ANSWERS ------
 // assume your answer contains A and B
 
-export const ANSWER_C = 'O(AB)'
+export const ANSWER_C = 'O(A B)'
 
 // ------------------------
 
